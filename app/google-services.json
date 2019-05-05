@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "794408685774",
+    "firebase_url": "https://spotimyzer.firebaseio.com",
+    "project_id": "spotimyzer",
+    "storage_bucket": "spotimyzer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794408685774:android:267324a6b3026023",
+        "android_client_info": {
+          "package_name": "it.hack.sasninjalabs.spotimyzer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794408685774-r36clod6l32kidjcuf65ndsjhddn8a47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "it.hack.sasninjalabs.spotimyzer",
+            "certificate_hash": "bccbae36bcecaa930e80b81f5bb82cf41e61408e"
+          }
+        },
+        {
+          "client_id": "794408685774-0sbtpe1qrp4pcruuj8boglnha8r5hiin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVI_4XHy4pUXwnLGJqavHA2jppzLxMa0g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794408685774-0sbtpe1qrp4pcruuj8boglnha8r5hiin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
